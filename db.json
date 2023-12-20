@@ -1,31 +1,55 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "users": [
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Alice Smith",
+    "email": "alice.smith@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Bob Johnson",
+    "email": "bob.johnson@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Eva Brown",
+    "email": "eva.brown@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Alex Turner",
+    "email": "alex.turner@example.com"
+  },
+  {
+    "id": 7,
+    "name": "Grace Lee",
+    "email": "grace.lee@example.com"
+  },
+  {
+    "id": 8,
+    "name": "Michael Wilson",
+    "email": "michael.wilson@example.com"
+  },
+  {
+    "id": 9,
+    "name": "Olivia Davis",
+    "email": "olivia.davis@example.com"
+  },
+  {
+    "id": 10,
+    "name": "Daniel Miller",
+    "email": "daniel.miller@example.com"
   }
+]
+
 }
